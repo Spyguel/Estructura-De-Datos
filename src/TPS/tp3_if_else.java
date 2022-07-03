@@ -1,5 +1,9 @@
 package TPS;
 
+//*****************************************************************************************************************
+//**¡¡ ADVERTENCIA!!: ejecutar el ejercicio 4 de manera aislada porque genera conflictos con los demás ejercicios**
+//*****************************************************************************************************************
+
 import java.util.Scanner;
 
 public class tp3_if_else {
